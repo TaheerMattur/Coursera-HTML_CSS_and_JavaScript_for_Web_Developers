@@ -1,0 +1,120 @@
+body {
+    font-size: 22px;
+    font-family: 'Cookie', cursive;
+    color: #ff0f0f;
+    background-color: #e6e6e6;
+}
+
+
+/** HEADER **/
+
+#header-nav {
+    background-color: #ff0000;
+    border-radius: 0;
+}
+
+#header-nav button {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #ffffff;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
+
+.navbar-brand h1 {
+    color: #ffffff;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bolder;
+    font-size: 1.9em;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 3px 2px #000000;
+}
+
+#nav-list {
+    background-color: #e6e6e6;
+}
+
+#nav-list a {
+    /*text-align: center;*/
+    font-weight: bolder;
+    color: #000000;
+    font-size: 1.3em;
+    border:
+}
+
+#nav-list a:hover {
+    color: #ff0000;
+    font-size: 1.6em;
+    background-color: #ffffff;
+}
+
+div.collapse.navbar-collapse li {
+    border-left: 15px solid #ff0000;
+    border-right: 15px solid #ff0000;
+    border-bottom: 5px solid #ff0000;
+}
+
+div.collapse.navbar-collapse li:last-child {
+    border-bottom: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1.5px solid #ffffff;
+}
+
+
+/** END OF HEADER */
+
+
+/** HOMEPAGE **/
+
+p.content {
+    color: black;
+}
+
+#main-content {
+    width: 95%;
+    margin-bottom: 30px;
+}
+
+#main-content h2 {
+    
+    font-size: 2.5em;
+    color: #ff0000;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-shadow: 0.5px 0.5px 1px #000000;
+}
+
+#main-content h3 {
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-shadow: 0.5px 0.5px 1px #000000;
+}
+
+#chicken-tile, #beef-tile, #sushi-tile {
+    width: 100%;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 60px;
+    box-shadow: 0 0 60px #000000;
+}
+
+
+/** END OF HOME PAGE **/
