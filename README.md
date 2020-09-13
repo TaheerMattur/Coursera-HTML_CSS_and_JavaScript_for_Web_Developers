@@ -10,6 +10,6 @@ This repository contains all of the source code required for assignments in the 
 
 ## **Outputs** :
 - [Module 2 - Solution](https://taheermattur.github.io/HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%202%20Solution/)
-- [Module 3 - Solution]
+- [Module 3 - Solution](https://taheermattur.github.io/HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%203%20Solution/)
 - [Module 4 - Solution]
 - [Module 5 - Solution]
