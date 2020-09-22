@@ -1,5 +1,5 @@
 # HTML CSS and JavaScript for Web Developers [John Hopkin's University]
-This repository contains all of the source code required for assignments in the course called **HTML, CSS and Javascript for Web Developers** from **Coursera**.
+This repository contains all of the source code for assignments in the course called **HTML, CSS and Javascript for Web Developers** from **Coursera**.
 
 ## **Assignments** :
 - Module-1 - Quiz 
