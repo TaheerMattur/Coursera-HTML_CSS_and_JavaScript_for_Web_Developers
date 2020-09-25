@@ -1,5 +1,5 @@
 # HTML CSS and JavaScript for Web Developers [John Hopkin's University]
-This repository contains all of the source code required for assignments in the course called **HTML, CSS and Javascript for Web Developers** from **Coursera**.
+This repository contains all of the source code for assignments in the course called **HTML, CSS and Javascript for Web Developers** from **Coursera**.
 
 ## **Assignments** :
 - Module-1 - Quiz 
@@ -10,6 +10,6 @@ This repository contains all of the source code required for assignments in the 
 
 ## **Outputs** :
 - [Module 2 - Solution](https://taheermattur.github.io/HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%202%20Solution/)
-- [Module 3 - Solution]
+- [Module 3 - Solution](https://taheermattur.github.io/HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%203%20Solution/)
 - [Module 4 - Solution]
 - [Module 5 - Solution]
