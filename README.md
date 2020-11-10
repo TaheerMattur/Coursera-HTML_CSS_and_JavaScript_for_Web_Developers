@@ -2,8 +2,7 @@
 This repository contains all of the source code for assignments in the course called **HTML, CSS and Javascript for Web Developers** from **Coursera**.
 ### **Instructor** : [Yakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin)
 ### Certificate :
-
-![Certificate](https://github.com/TaheerMattur/HTML_CSS_and_JavaScript_for_Web_Developers/blob/master/Certificate.jpg | 700x500)
+<img src="https://github.com/TaheerMattur/HTML_CSS_and_JavaScript_for_Web_Developers/blob/master/Certificate.jpg" width="600" width="500">
 
 ### **Assignments** :
 - Module-1 - Quiz 
