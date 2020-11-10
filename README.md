@@ -1,7 +1,10 @@
 ## Coursera : [HTML CSS and JavaScript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) by John Hopkin's University
 This repository contains all of the source code for assignments in the course called **HTML, CSS and Javascript for Web Developers** from **Coursera**.
 ### **Instructor** : [Yakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin)
-##3 **Assignments** :
+###Certificate :
+![alt text](https://github.com/TaheerMattur/HTML_CSS_and_JavaScript_for_Web_Developers/blob/master/Certificate.jpg?raw=true)
+
+### **Assignments** :
 - Module-1 - Quiz 
 - [Module-2 - Coding](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 - [Module-3 - Coding](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
