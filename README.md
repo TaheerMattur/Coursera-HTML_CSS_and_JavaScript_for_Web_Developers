@@ -11,7 +11,7 @@ This repository contains all of the source code for assignments in the course ca
 - [Module-5 - Coding](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
 
 ### **Outputs** :
-- [Module 2 - Solution](https://taheermattur.github.io/HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%202%20Solution/)
-- [Module 3 - Solution](https://taheermattur.github.io/HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%203%20Solution/)
-- [Module 4 - Solution](https://taheermattur.github.io/HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%204%20Solution/)
-- [Module 5 - Solution](https://taheermattur.github.io/HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%205%20Solution/#)
+- [Module 2 - Solution](https://taheermattur.github.io/Coursera-HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%202%20Solution/)
+- [Module 3 - Solution](https://taheermattur.github.io/Coursera-HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%203%20Solution/)
+- [Module 4 - Solution](https://taheermattur.github.io/Coursera-HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%204%20Solution/)
+- [Module 5 - Solution](https://taheermattur.github.io/Coursera-HTML_CSS_and_JavaScript_for_Web_Developers/Assignments/Module%205%20Solution/#)
